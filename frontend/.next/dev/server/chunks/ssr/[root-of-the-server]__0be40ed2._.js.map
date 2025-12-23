@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Lester/Downloads/Manga_Project/frontend/pages/index.js"],"sourcesContent":["export default function Home() {\r\n  return (\r\n    <div>\r\n      <h1>Manga Project Frontend</h1>\r\n      <p>Server is running. Try searching for a manga soon!</p>\r\n    </div>\r\n  );\r\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,qKAAC;;0BACC,qKAAC;0BAAG;;;;;;0BACJ,qKAAC;0BAAE;;;;;;;;;;;;AAGT"}}]
+}
